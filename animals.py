@@ -48,3 +48,7 @@ class Bear:
 
 balu = Bear(4, "aaa")
 balu.voice()
+
+#
+# class Clock:
+#     __DAY = 86400 #число секунд в одном дне

@@ -23,7 +23,7 @@ class Vito(Jack):
     def cat(self):
         p = dog.balance - self.num
         t = self.balance + p
-        print(f'Cat:', t)
+        print(f"Cat:, {t}")
 
 
 brad = Vito('Brad', 'Bone', '98765', 34)
