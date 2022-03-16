@@ -43,8 +43,8 @@ class Fraction:
         return Fraction(new_numerator, new_denumerator)
 
 
-a = Fraction(4, 6)
-b = Fraction(6, 12)
+a = Fraction(3, 12)
+b = Fraction(7, 49)
 
 print(a + b)
 print(a - b)
