@@ -40,6 +40,6 @@
 # else:
 #     print("False")
 while 1:
-    x = input('введи число')
-    print('Try' if x == x[::-1] else 'False')
+    x = input('Введи число:')
+    print('True' if x == x[::-1] else 'False')
 
